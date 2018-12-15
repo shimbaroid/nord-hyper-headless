@@ -78,15 +78,15 @@ exports.decorateConfig = config => {
       * {
         text-rendering: optimizeLegibility !important;
       }
-      .header_header {
-        background-color: ${backgroundColor} !important;
-        top: 0 !important;
-        right: 0 !important;
-        left: 0 !important;
-      }
-      ::selection {
-        background: rgba(67, 76, 94, 0.8) !important;
-      }
+//      .header_header {
+//        background-color: ${backgroundColor} !important;
+//        top: 0 !important;
+//        right: 0 !important;
+//        left: 0 !important;
+//      }
+//      ::selection {
+//       background: rgba(67, 76, 94, 0.8) !important;
+//      }
       .tab_first {
         margin-left: 0 !important;
         padding: 0 !important;
